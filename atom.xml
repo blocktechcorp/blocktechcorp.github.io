@@ -4,7 +4,7 @@
   <subtitle><![CDATA[by Blockchain Technologies Corp.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="https://blocktechcorp.github.io/"/>
-  <updated>2015-12-14T18:28:12.000Z</updated>
+  <updated>2015-12-14T21:48:17.000Z</updated>
   <id>https://blocktechcorp.github.io/</id>
   
   <author>
@@ -15,22 +15,74 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Welcome]]></title>
-    <link href="https://blocktechcorp.github.io/2015/12/14/Welcome/"/>
-    <id>https://blocktechcorp.github.io/2015/12/14/Welcome/</id>
-    <published>2015-12-14T16:41:05.000Z</published>
-    <updated>2015-12-14T18:28:12.000Z</updated>
-    <content type="html"><![CDATA[<p>Hello World! We are very excited to welcome you to <a href="http://entertheblockchain.com" target="_blank" rel="external">Enter the Blockchain</a>, a blog and informational resource for the community produced by <a href="http://blockchaintechcorp.com" target="_blank" rel="external">Blockchain Tech Corp</a>. </p>
-<p>We believe the blockchain will change the world and our goal is to create high quality, free, educational information to help everyone understand why and how they can help.</p>
-<h4 id="What_u2019s_Inside_3A"><a href="#What_u2019s_Inside_3A" class="headerlink" title="What’s Inside:"></a>What’s Inside:</h4><p><strong>A blog:</strong> We will be posting periodically about developments in blockchain technology, Bitcoin, cryptography, open source software, and the latest news from Blockchain Tech Corp.</p>
+    <title><![CDATA[Welcome!]]></title>
+    <link href="https://blocktechcorp.github.io/2140/01/01/Welcome/"/>
+    <id>https://blocktechcorp.github.io/2140/01/01/Welcome/</id>
+    <published>2140-01-01T17:00:00.000Z</published>
+    <updated>2015-12-14T21:48:17.000Z</updated>
+    <content type="html"><![CDATA[<p><strong>Hello World!</strong> We are very excited to welcome you to our community blog and blockchain information resource produced by <a href="http://blockchaintechcorp.com" target="_blank" rel="external">Blockchain Tech Corp</a>. </p>
+<p>We believe the blockchain <a href="/2015/12/14/blocktechcorp">will change the world</a> and our goal for this website is to create a high quality educational / information resource to help everyone understand why, and learn how they can get involved today.</p>
+<p>Connect with us on <a href="http://twitter.com/blocktechcorp" target="_blank" rel="external">Twitter</a> &amp; <a href="http://facebook.com/blockchaintechcorp" target="_blank" rel="external">Facebook</a>! We would love to hear your comments, suggestions, or content requests. Not on social media? We love reading your <a href="mailto:info@blocktechcorp.com" target="_blank" rel="external">emails</a>, too.</p>
+<h4 id="What_u2019s_Inside_3A"><a href="#What_u2019s_Inside_3A" class="headerlink" title="What’s Inside:"></a>What’s Inside:</h4><p><strong>A blog:</strong> We will be posting periodically about developments in blockchain technology, Bitcoin, cryptography, and open source software, as well as the latest news from Blockchain Tech Corp.</p>
 <p><strong>Information:</strong> Informational resources to learn more about the amazing technologies, concepts, and potential in this exciting new space.</p>
-<p><strong>Guides:</strong> Step-by-step guides designed to help you get up and running with Bitcoin and blockchain technology.</p>
-<h4 id="Check_back_regularly_or_subscribe_to_our_RSS_feed_to_make_sure_you_don_u2019t_miss_anything_21"><a href="#Check_back_regularly_or_subscribe_to_our_RSS_feed_to_make_sure_you_don_u2019t_miss_anything_21" class="headerlink" title="Check back regularly or subscribe to our RSS feed to make sure you don’t miss anything!"></a>Check back regularly or subscribe to our <a href="/atom.xml">RSS feed</a> to make sure you don’t miss anything!</h4>]]></content>
+<p><strong>Guides:</strong> Step-by-step guides designed to help you get up and running with Bitcoin and blockchain technology as quickly as possible.</p>
+<p><strong>Check back regularly or subscribe to our <a href="/atom.xml">RSS feed</a> to make sure you don’t miss anything!</strong></p>
+]]></content>
     <summary type="html">
-    <![CDATA[<p>Hello World! We are very excited to welcome you to <a href="http://entertheblockchain.com" target="_blank" rel="external">Enter the Block]]>
+    <![CDATA[<p><strong>Hello World!</strong> We are very excited to welcome you to our community blog and blockchain information resource produced by <a]]>
     </summary>
     
+      <category term="btc-news" scheme="https://blocktechcorp.github.io/tags/btc-news/"/>
+    
+      <category term="guides" scheme="https://blocktechcorp.github.io/tags/guides/"/>
+    
+      <category term="info" scheme="https://blocktechcorp.github.io/tags/info/"/>
+    
+      <category term="intro" scheme="https://blocktechcorp.github.io/tags/intro/"/>
+    
       <category term="posts" scheme="https://blocktechcorp.github.io/tags/posts/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[We Are Blockchain Technologies Corp.]]></title>
+    <link href="https://blocktechcorp.github.io/2015/12/14/blocktechcorp/"/>
+    <id>https://blocktechcorp.github.io/2015/12/14/blocktechcorp/</id>
+    <published>2015-12-14T21:14:22.000Z</published>
+    <updated>2015-12-14T21:44:32.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="btc-news" scheme="https://blocktechcorp.github.io/tags/btc-news/"/>
+    
+      <category term="intro" scheme="https://blocktechcorp.github.io/tags/intro/"/>
+    
+      <category term="posts" scheme="https://blocktechcorp.github.io/tags/posts/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Enhancing Elections with Blockchain Technology (Part 1)]]></title>
+    <link href="https://blocktechcorp.github.io/2015/12/14/blockchain-voting-1/"/>
+    <id>https://blocktechcorp.github.io/2015/12/14/blockchain-voting-1/</id>
+    <published>2015-12-14T21:12:05.000Z</published>
+    <updated>2015-12-14T21:44:15.000Z</updated>
+    <content type="html"><![CDATA[<p>(This is Part 1 in a multi-part series)</p>
+<h2 id="Fair_elections_are_the_cornerstone_of_democracy"><a href="#Fair_elections_are_the_cornerstone_of_democracy" class="headerlink" title="Fair elections are the cornerstone of democracy."></a>Fair elections are the cornerstone of democracy.</h2>]]></content>
+    <summary type="html">
+    <![CDATA[<p>(This is Part 1 in a multi-part series)</p>
+<h2 id="Fair_elections_are_the_cornerstone_of_democracy"><a href="#Fair_elections_are_the_cor]]>
+    </summary>
+    
+      <category term="blockchain tech" scheme="https://blocktechcorp.github.io/tags/blockchain-tech/"/>
+    
+      <category term="btc-news" scheme="https://blocktechcorp.github.io/tags/btc-news/"/>
+    
+      <category term="posts" scheme="https://blocktechcorp.github.io/tags/posts/"/>
+    
+      <category term="voting" scheme="https://blocktechcorp.github.io/tags/voting/"/>
     
   </entry>
   
